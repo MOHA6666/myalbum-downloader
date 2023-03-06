@@ -170,4 +170,4 @@ r = requests.get(f"{url}/json", headers={'referer': url})
 if r.status_code == 200:
     legacy_download(r)
 elif r.status_code == 404:
-    download_image(inputurl)
+    download_image(https://myalbum.com/album/q4Lb3rCZi8n7hV/?invite=7537bbd3-3fe2-43b1-9a08-eda11831c823)
